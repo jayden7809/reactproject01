@@ -1,15 +1,16 @@
 {
   "files": {
-    "main.css": "/reactproject01/static/css/main.0c0d4781.css",
-    "main.js": "/reactproject01/static/js/main.1aa79d25.js",
-    "static/js/453.0de26c1a.chunk.js": "/reactproject01/static/js/453.0de26c1a.chunk.js",
-    "index.html": "/reactproject01/index.html",
-    "main.0c0d4781.css.map": "/reactproject01/static/css/main.0c0d4781.css.map",
-    "main.1aa79d25.js.map": "/reactproject01/static/js/main.1aa79d25.js.map",
-    "453.0de26c1a.chunk.js.map": "/reactproject01/static/js/453.0de26c1a.chunk.js.map"
+    "main.css": "/react_img/static/css/main.14eae29a.css",
+    "main.js": "/react_img/static/js/main.587a34d1.js",
+    "static/js/453.9ee576b5.chunk.js": "/react_img/static/js/453.9ee576b5.chunk.js",
+    "static/media/cont3_cake1.png": "/react_img/static/media/cont3_cake1.11207070d19d4378febc.png",
+    "index.html": "/react_img/index.html",
+    "main.14eae29a.css.map": "/react_img/static/css/main.14eae29a.css.map",
+    "main.587a34d1.js.map": "/react_img/static/js/main.587a34d1.js.map",
+    "453.9ee576b5.chunk.js.map": "/react_img/static/js/453.9ee576b5.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.0c0d4781.css",
-    "static/js/main.1aa79d25.js"
+    "static/css/main.14eae29a.css",
+    "static/js/main.587a34d1.js"
   ]
 }
